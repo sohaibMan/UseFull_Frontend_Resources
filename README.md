@@ -1,5 +1,5 @@
 # UseFull_Frontend_Resources And more 
-you will find here a lot of resources and links I have used for more than 2 years in the web industry , you can use them to get Images,Icons,Carsoules,Buttons,Svgs,Animations,Inspirations Desing, Apis,Fonts,templates and More and All of theme are opensource and for free
+you will find here a lot of resources and links I have used for more than 2 years in the web industry , you can use them to get Images,Icons,Carsoules,Buttons,Svgs,Animations,Inspirations Desing, Apis,Fonts,templates and More and All of them are opensource and for free
 (All Add more if I will get a Good Reactions
 
  ## API
