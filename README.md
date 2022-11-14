@@ -163,3 +163,15 @@ you will find here a lot of resources and links I have used for more than 2 year
  https://me-qr.com/entry/
    </br>
   
+# Find remote jobs and internships on these platforms, Developers ↓
+
+1. dailyremote. com
+2. flexjobs. com
+3. hired. com
+4. virtualvocations. com
+5. remoteleads. io
+6. internships. com
+7. mediabistro. com
+8. glassdoor. com
+9. intentmatch. io
+10. nodesk. co
